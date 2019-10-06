@@ -15,3 +15,8 @@ To start, I page through random maps in FT3 looking for one that doesn't overlap
 ### FT3 Settings
 To edit the maps in FT3, I update the editing settings to have the Editing Size set to Custom: 8190. Also, check the box to "Allow Prescale Offset Editing".
 
+## Polar Cleanup
+
+The first edits I'll make are to tidy up what would currently be the northern pole landmass. I want to make it bigger and a bit more round, so I'll fill in some of the gaps between the points. To do this, I'll use the Raise Prescale Offset tool at a value of 0.0164042 (the default value with an extra 0 added after the decimal) and a width/heigh starting at 250 but varying the size as needed. To raise land out of the sea, I start more off-shore and work in to try and avoid a raised area at the old land/sea border.
+
+> *Important:* You don't want to raise or lower too deeply at once, and you want to make the clicks in a non-linear pattern to avoid scarring or gouging on the map.
