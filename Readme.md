@@ -32,3 +32,5 @@ Before I start editing the continents, I need a guide to help me get a sense of 
 Right now, the continents are huge and clearly just a fractal generated mess. Based on what I know from looking at our own planet, the big blobs of mountains in the center of the land masses is just all wrong. (I make no claims of geological or planetary epertise, I only know what looks _natural_ to me.) So, I take some time to think about what I want to trim out first and just mark things up in Paint. 
 
 ![Continental Edit Plan](Oct_Map_SketchPlan.jpg)
+
+From there, the idea is to lower, but not really flatten out the bulbous mountains and remove or add terrain as needed. Go slowly and save often. I often find I haven't saved as frequently as I wish I had. The undo buffer only goes so far, and I think that is less far the more detailed the edit size.
