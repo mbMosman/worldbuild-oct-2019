@@ -24,3 +24,11 @@ The first edits I'll make are to tidy up what would currently be the northern po
 When editing the poles, you have to remember that the default map projection (equirectangular) has a lot of distortion at the poles. (As noted in the description in FT3: "Unfortunately, it distorts both shape and area, with the distortions increasing with increasing distance from the equator.") To get a more accurate sense of what these regions look like, switch to the Orthographic or Stereographic projections.
 
 ![Orthographic view of N. Pole](Oct_Map_PoleEditSquare.jpg)
+
+## Continent Cleanup
+
+Before I start editing the continents, I need a guide to help me get a sense of size. To do this, I'll enable the FT3 Grid with lat/long at 15 deg marks. This helps me compare with this lovely map [equirectangular map of our planet on Wikipedia](https://en.wikipedia.org/wiki/Equirectangular_projection#/media/File:Equirectangular_projection_SW.jpg)
+
+Right now, the continents are huge and clearly just a fractal generated mess. Based on what I know from looking at our own planet, the big blobs of mountains in the center of the land masses is just all wrong. (I make no claims of geological or planetary epertise, I only know what looks _natural_ to me.) So, I take some time to think about what I want to trim out first and just mark things up in Paint. 
+
+![Continental Edit Plan](Oct_Map_SketchPlan.jpg)
