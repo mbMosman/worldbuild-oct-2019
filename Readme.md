@@ -13,7 +13,31 @@ To start, I page through random maps in FT3 looking for one that doesn't overlap
 ![Initial Fractal Map](Oct_Map_Initial.jpg)
 
 ### FT3 Settings
-To edit the maps in FT3, I update the editing settings to have the Editing Size set to Custom: 8190. Also, check the box to "Allow Prescale Offset Editing".
+__Fractal Function__
+You can play with this to your own liking. My thoughts:
+
+- Skip the first two (Brownian Noise & Ridged Multifractal), as they are very streaky.
+- Wilbur Ridged Multifractal: Used here, tends to make stringier mountains
+- RMF with Perlin's Improved Noise: Similar to above but a little less stringy in the mountains
+- Wilbur Fractional Brownian Motion: Tends to make more natrual looking continent shapes, but bloby mountains
+- fBm with Perlin's Improved Noise: Very similar to above
+
+I tend toward using the Ridged Multifractal function and filling out landmasses myself, but my mood on this varies map to map.
+
+__Secondary__
+I prefer to work in metric units, so I check the box for metric.
+
+__Primary__
+Highest Peak: 10km
+Lowest Depth: -10km
+
+Roughness: ~ 0.85 
+Percent Sea: ~ 70% (I tend to remove more land than I add)
+Land Size: 2.04
+
+__Editing__
+Editing Size: Custom = 8190
+Check the box to "Allow Prescale Offset Editing"
 
 ## Polar Cleanup
 
