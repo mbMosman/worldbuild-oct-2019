@@ -33,4 +33,6 @@ Right now, the continents are huge and clearly just a fractal generated mess. Ba
 
 ![Continental Edit Plan](Oct_Map_SketchPlan.jpg)
 
-From there, the idea is to lower, but not really flatten out the bulbous mountains and remove or add terrain as needed. Go slowly and save often. I often find I haven't saved as frequently as I wish I had. The undo buffer only goes so far, and I think that is less far the more detailed the edit size.
+From there, the idea is to lower, but not really flatten out the bulbous mountains and remove or add terrain as needed. Go slowly and save often. I often find I haven't saved as frequently as I wish I had. The undo buffer only goes so far, and I think that is lessened the more detailed the edit size.
+
+Inevitably I end up wanting back some terrain that I earased early on. I thought at one point if I saved maps along the way I could cut/paste say a continent or island from an old one to a new one. Nope. Not easily anyway. There is a tool to save and load selections, but I can't get it to work across maps. Boo!
