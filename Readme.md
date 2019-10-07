@@ -51,3 +51,7 @@ FT3 has an export option for a sequence of images that you can later animate. Fi
 
 I usually don't bother to animate them at this point, just click through them in the image preview where it kinda makes it look like it is spinning. That's enough to get the gist of shapes and sort out if there is anything major I want to change before I go forward. However here's a link to how to [use GIMP to animate](https://www.gimp.org/tutorials/Simple_Animations/).
 
+## Erosion & Smoothing
+
+To be continued... ^.^ 
+Really. It will.
