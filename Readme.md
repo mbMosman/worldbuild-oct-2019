@@ -77,5 +77,20 @@ I usually don't bother to animate them at this point, just click through them in
 
 ## Erosion & Smoothing
 
+Once I have the map shaped roughly the way I want, it's time to start evolving it toward more natural features. When starting out, I think my maps had *way* too many mountains that were *way* too tall. 
+
+Some points of comparison: 
+
+- A [hypsometric curve](https://en.wikipedia.org/wiki/Hypsometry) of earth elevations, shows the percentage of land at a given elevation. Most of the land on earth has an average height of 0.8 km. Less than 5% is above 2 km in height. 
+- Looking at a [global elevation map](https://www.ncl.ucar.edu/Applications/Images/topo_3_lg.png), gives perspective on the height of actual mountain ranges. A lot of mountain ranges just aren't that tall. It's the geological *bunch-up* points that make the super tall and towering peaks. 
+
+I'd like to see some of those towery peaks so I'm going to say I've got some bunch up points there in that western continent. I'm going to say that the bottom half of that is pushing into and under that upper half, so I'm going to build up the mountains there on the top and lower them on the bottom. Think of the bottom part as India sliding into the Himalayas.
+
+> Make sure to zoom in on the area of the map you want to adjust these details in. Don't try to do it at world view scale!
+
+This is what it looks like now. Still messy, but higher and only on the one side. 
+![After West Continent Mountain Edits](Oct_Map_WestMountainEdit.jpg)
+
+
 To be continued... ^.^ 
 Really. It will.
